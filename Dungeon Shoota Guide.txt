@@ -1,0 +1,51 @@
+Dungeon Shoota - by Alex and Paul
+
+Player 1 (Red) Controlls:
+W,A,S,D - move around
+R - reload
+Spacebar - shoot
+
+Player 2 (Blue) Controlls:
+Arrow keys - move around
+1 - reload
+0 - shoot
+
+Shop:
+To buy a weapon, click it, click "buy" and then click it again to be able to select it as your next weapon.
+
+The weapon you selected previously will not be the one you have next round (-> reselect the weapon)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dungeon Shoota (R) All rights reserved

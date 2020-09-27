@@ -1,0 +1,63 @@
+1	M9
+2	USP
+3	Glock-17
+4	Glock-18
+5	CZ-75
+6	Desert Eagle
+7	Rhino
+8	M16
+9	FAMAS
+10	AK-47
+11	G3
+12	G36C
+13	SCAR-L
+14	ACR
+15	M14
+16	AUG
+17	Galil
+18	FAL
+19	Remington 870
+20	Olympia
+21	SPAS-12
+22	Model 1887
+23	W1200
+24	Striker
+25	M1014
+26	AA-12
+27	SPAS-15
+28	USAS 12
+29	Kar98k
+30	AWP
+31	Dragunov
+32	M40A3
+33	R700
+34	PSG-1
+35	Ballista
+36	M200
+37	M82A1
+
+38	Mac-11
+39	Skorpion
+40	Uzi
+41	Mp5
+42	PP2000
+43	Mini-Uzi
+44	UMP 45
+45	PP-Bizon
+46	P90
+47	Ak-74u
+
+48	AUG-HBAR
+49	M249
+50	M60E3
+51	Negev
+52	RPD
+53	Minigun
+
+54	AR-15
+55
+56
+57
+58
+59
+60
